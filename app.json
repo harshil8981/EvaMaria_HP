@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "IMDB_HPBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -14,19 +14,19 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/harshil8981/EvaMaria_HP",
+    "repository": "https://github.com/harshil8981/EvaMaria_HP",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from https://my.telegram.org" or "@Mytele_ORGbot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Get this value from https://my.telegram.org" or "@Mytele_ORGbot",
             "value": ""
         },
         "CHANNELS": {
